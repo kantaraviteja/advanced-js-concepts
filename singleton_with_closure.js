@@ -24,6 +24,7 @@ singleton.incBy(21);
 singleton.getCounter();
 singleton.inc1();
 singleton.getCounter();
+
 console.log(singleton.counter);
 
 
